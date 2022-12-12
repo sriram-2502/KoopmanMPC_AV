@@ -1,5 +1,5 @@
 clc; clear; close all;
-
+addpath acrobot
 %% get params
 params.dTsim = 0.2;
 params.predHorizon = 5;
